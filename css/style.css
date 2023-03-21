@@ -22,7 +22,7 @@ height:100%;
 background-color:bisque;
 padding-top:15px;
 padding-bottom:120px;
-background: url("/images/header-background3.png") ;
+background: url("images/header-background3.png") ;
 background-size:cover;
 position:relative;
 }
